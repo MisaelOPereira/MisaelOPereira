@@ -1,5 +1,5 @@
 - Olá, Eu sou Misael Oliveira Pereira. 
-- Atualmente estou no segundo periodo do curso de sistemas de informação.
+- Atualmente estou no quarto periodo do curso de sistemas de informação.
 - Por meio dessa plataforma vou postar meus projetos de apps entre outros projetos de didático.
 
  ##
